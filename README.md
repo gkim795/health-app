@@ -26,7 +26,7 @@ The goal of this application was to get familiar with Flutter - widgets, navigat
     * Created reusuable widgets and dummy data 
     * Added styling & interactions
     * Added third party libraries (table_calendar, faker) to improve application
-
+ 
 
 ## Future Improvements
 - Add unit tests and end to end tests to ensure functionality and stability of application and prevent regressions
