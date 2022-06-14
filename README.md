@@ -1,5 +1,5 @@
 # Health App
-
+TESTING
 The Health App is a mobile application that enables users to store details about their health to understand trends.
 
 ![Initial Scaffold](gifs/1.gif)
